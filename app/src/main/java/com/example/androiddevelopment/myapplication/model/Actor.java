@@ -17,7 +17,7 @@ public class Actor {
     private Movies movies;
     private Date dateOfBirth;
 
-    public Actor() {
+    public Actor(int id, String name) {
 
     }
 

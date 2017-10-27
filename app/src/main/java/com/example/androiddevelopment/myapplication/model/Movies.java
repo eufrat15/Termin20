@@ -13,6 +13,10 @@ public class Movies {
     private String name;
     private List<Actor> movies;
 
+    /*public Movies(int id, List<Actor> movies) {
+
+    }*/
+
     public Movies() {
 
         movies = new ArrayList<>();
